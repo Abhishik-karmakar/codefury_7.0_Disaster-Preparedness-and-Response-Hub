@@ -55,15 +55,6 @@ Welcome to the Disaster Response Frontend repository! This project focuses on pr
    ```bash
    npx react-native start --reset-cache
    ```
-   
-## Contributions
-- [Pranav Tyagi](https://github.com/PranavTyagi-3)
-- [Ayushi Agarwal](https://github.com/ayushi0111)
-- [Neelesh Ranjan](https://github.com/Apx-Monstr)
-- [Tanesha Gahtori](https://github.com/taneshagahtori)
-- [Karthik Mishra](https://github.com/Hacker-KM)
-- [Ayush Bhatt](https://github.com/AyushB21)
-
 ## License
 
 This project is licensed under the GNU General Public License.
